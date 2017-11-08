@@ -49,7 +49,7 @@ Time spent: **7** hours spent in total
   Be the attacker and design a form which will make a change to the spelling of some database content. 
   Then point the form action at each of the three sites to find out which color has the vulnerability. 
   Do not neglect to be stealthy with your form—your unsuspecting, logged-in admin should neither see the form nor the results of the form submission.
-  - [ ] GIF Walkthrough: https://gfycat.com/gifs/detail/DisguisedHonoredGuineafowl
+  - [ ] GIF Walkthrough: https://gfycat.com/gifs/detail/RipeUnequaledAfricanwilddog
   - [ ] Steps to recreate: By creating an html(CSRF.html) that sends a hidden edit to the red site. I was able to secretly change/edit the salesperson.
         Simply open the html and check the red site and you will see the new salesperson.
  
